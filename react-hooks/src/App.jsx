@@ -1,7 +1,9 @@
+import Starter from "./tutorial/01-useState/02-useState-basics";
+
 function App() {
   return (
     <div className="container">
-      <h2>React hooks</h2>
+      <Starter />
     </div>
   );
 }
